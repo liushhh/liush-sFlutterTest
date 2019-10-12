@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:myflutter_test_4vscode/TipRoute.dart';
 
-class NewRoute extends StatelessWidget {
+class SecondPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
